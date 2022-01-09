@@ -1,2 +1,2 @@
 # covid_tracker
-A Shiny App that tracks real time Data in the US.
+A Shiny App that tracks real time covid data in the US.
